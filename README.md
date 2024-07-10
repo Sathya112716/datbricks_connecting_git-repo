@@ -1,1 +1,1 @@
-# datbricks_connecting_git-repo
+for connecting databricks to git repo
